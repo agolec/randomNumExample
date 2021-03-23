@@ -1,0 +1,15 @@
+B:\c-sharp\RandomNumbers\obj\Debug\net5.0\RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+B:\c-sharp\RandomNumbers\obj\Debug\net5.0\RandomNumbers.AssemblyInfoInputs.cache
+B:\c-sharp\RandomNumbers\obj\Debug\net5.0\RandomNumbers.AssemblyInfo.cs
+B:\c-sharp\RandomNumbers\obj\Debug\net5.0\RandomNumbers.csproj.CoreCompileInputs.cache
+B:\c-sharp\RandomNumbers\bin\Debug\net5.0\RandomNumbers.exe
+B:\c-sharp\RandomNumbers\bin\Debug\net5.0\RandomNumbers.deps.json
+B:\c-sharp\RandomNumbers\bin\Debug\net5.0\RandomNumbers.runtimeconfig.json
+B:\c-sharp\RandomNumbers\bin\Debug\net5.0\RandomNumbers.runtimeconfig.dev.json
+B:\c-sharp\RandomNumbers\bin\Debug\net5.0\RandomNumbers.dll
+B:\c-sharp\RandomNumbers\bin\Debug\net5.0\ref\RandomNumbers.dll
+B:\c-sharp\RandomNumbers\bin\Debug\net5.0\RandomNumbers.pdb
+B:\c-sharp\RandomNumbers\obj\Debug\net5.0\RandomNumbers.dll
+B:\c-sharp\RandomNumbers\obj\Debug\net5.0\ref\RandomNumbers.dll
+B:\c-sharp\RandomNumbers\obj\Debug\net5.0\RandomNumbers.pdb
+B:\c-sharp\RandomNumbers\obj\Debug\net5.0\RandomNumbers.genruntimeconfig.cache
